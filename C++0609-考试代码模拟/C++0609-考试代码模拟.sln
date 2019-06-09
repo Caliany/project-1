@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++0609-考试代码模拟", "C++0609-考试代码模拟\C++0609-考试代码模拟.vcxproj", "{3E00124F-69C1-4992-AD7E-4B44B6A1E8DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E00124F-69C1-4992-AD7E-4B44B6A1E8DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3E00124F-69C1-4992-AD7E-4B44B6A1E8DF}.Debug|Win32.Build.0 = Debug|Win32
+		{3E00124F-69C1-4992-AD7E-4B44B6A1E8DF}.Release|Win32.ActiveCfg = Release|Win32
+		{3E00124F-69C1-4992-AD7E-4B44B6A1E8DF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
